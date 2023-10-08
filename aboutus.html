@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
-    <link rel="stylesheet" href="styles.css">
-    <title>Proposal - Website Saya</title>
+    <link rel="stylesheet" href="css/styles.css"> <!-- Menghubungkan file CSS terpisah -->
+    <title>About Us - Website Saya</title>
 </head>
 <body>
+    <!-- Navbar -->
     <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
             <a class="navbar-item" href="https://www.ulbi.ac.id/" target="_blank">
@@ -28,14 +29,25 @@
         </div>
     </nav>
 
-    <section class="section">
-        <div class="container">
-            <h1 class="title">Proposal</h1>
-            <div id="proposal-container">
-                <!-- Data proposal akan ditampilkan di sini menggunakan JavaScript -->
+
+   <!-- Isi Halaman "About Us" -->
+<section class="section">
+    <div class="container">
+        <h1 class="title">About Us</h1>
+        <div class="columns is-centered">
+            <div class="column is-half">
+                <div class="has-text-centered">
+                    <img src="asset/image/penulis.jpeg" alt="Gambar us" width="500">
+                </div>
+                <p class="subtitle has-text-centered">Nama: Hilal Fakhri Dzakwan</p>
+                <p class="subtitle has-text-centered">NPM: 1214018</p>
+                <p class="subtitle has-text-centered">Email: hilaldzakwan08@gmail.com</p>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
+
     <!-- Footer -->
     <footer class="footer">
         <div class="content has-text-centered">
@@ -44,7 +56,6 @@
             </p>
         </div>
     </footer>
-    <script type="module" src="proposal.js"></script> <!-- Panggil script JavaScript -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script type="module" src="proposal.js"></script>
 </body>
 </html>

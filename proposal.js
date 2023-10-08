@@ -3,7 +3,7 @@
 // Fungsi untuk mengambil data dari JSON
 async function fetchProposalData() {
     try {
-        const response = await fetch('proposal.json'); // Mengambil data dari proposal.json
+        const response = await fetch('json/proposal.json'); // Mengambil data dari proposal.json
         const data = await response.json();
 
         return data;
