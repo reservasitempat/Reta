@@ -1,10 +1,14 @@
 [
     {
-        "judul": "Proposal Proyek A",
-        "deskripsi": "Ini adalah deskripsi Proposal Proyek A."
+        "judul": "Latar Belakang Masalah",
+        "deskripsi": "<p style=\"text-align: justify; font-size: 10px;\">Latar belakang masalah tentang Sistem Reservasi Tempat mencakup beberapa aspek yang signifikan. Pertama-tama, kita telah menyaksikan peningkatan pesat dalam permintaan reservasi tempat untuk berbagai jenis acara seperti pernikahan, konferensi, seminar, dan lainnya. Hal ini menciptakan kompleksitas tambahan dalam manajemen reservasi karena setiap jenis acara memiliki persyaratan yang berbeda. Terbatasnya sumber daya seperti kapasitas, peralatan, dan lokasi yang tersedia juga menjadi masalah utama, terutama pada puncak musim atau tanggal populer, yang dapat mengakibatkan kehilangan peluang bisnis. Kesalahan manusia dalam proses reservasi juga bisa menjadi masalah yang sering muncul, sementara perubahan dalam kebijakan dan regulasi dapat mempengaruhi operasional tempat reservasi. Di samping itu, perkembangan teknologi informasi menawarkan peluang untuk meningkatkan efisiensi dan akurasi dalam manajemen reservasi, tetapi belum semua tempat reservasi mengadopsi solusi teknologi ini. Oleh karena itu, pengembangan sistem reservasi tempat yang efisien dan dapat diandalkan sangat penting untuk mengatasi tantangan-tantangan ini dan meningkatkan pengalaman pelanggan serta efisiensi operasional.</p>"
     },
     {
-        "judul": "Proposal Proyek B",
-        "deskripsi": "Ini adalah deskripsi Proposal Proyek B."
+        "judul": "Identifikasi Masalah",
+        "deskripsi": "<p style=\"text-align: justify; font-size: 10px;\">1. Bagaimana mengatasi tantangan dalam manajemen dan pengelolaan reservasi tempat dengan lebih efisien?</p><p style=\"text-align: justify; font-size:10px;\">2. Bagaimana meminimalkan potensi kesalahan dan konflik dalam proses reservasi tempat untuk meningkatkan kepuasan pelanggan?</p><p style=\"text-align: justify;font-size: 10px;\">3. Bagaimana memanfaatkan teknologi dan solusi digital untuk meningkatkan efisiensi operasional dan adaptasi terhadap perubahan regulasi dalam konteks reservasi tempat?</p>"
+    },
+    {
+        "judul": "Tujuan",
+        "deskripsi":"<p style=\"text-align: justify; font-size: 10px;\">1.Meningkatkan efisiensi dalam manajemen reservasi tempat, sehingga tempat-tempat reservasi dapat memaksimalkan penggunaan sumber daya.</p><p style=\"text-align: justify; font-size: 10px;\">2. Mengurangi potensi kesalahan dalam reservasi, memberikan pilihan yang lebih baik kepada pelanggan, dan memberikan layanan yang lebih responsif, yang semuanya bertujuan untuk meningkatkan kepuasan.</p><p style=\"text-align: justify; font-size: 10px;\">3. Membantu dalam mengotomatiskan proses reservasi, memungkinkan pelanggan untuk mereservasi secara mandiri, dan memudahkan adaptasi terhadap perubahan peraturan dan regulasi.</p>"
     }
 ]

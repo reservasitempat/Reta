@@ -22,7 +22,7 @@ async function displayProposalData() {
             const proposalItem = document.createElement('div');
             proposalItem.classList.add('box');
             proposalItem.innerHTML = `
-                <h2 class="title is-4">${proposal.judul}</h2>
+                <h1 class="title is-4">${proposal.judul}</h1>
                 <p>${proposal.deskripsi}</p>
             `;
             proposalContainer.appendChild(proposalItem);
