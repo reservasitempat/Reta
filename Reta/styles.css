@@ -1,0 +1,101 @@
+/* style.css */
+
+/* Gaya tambahan untuk Navbar */
+.navbar {
+    background-color: #007BFF;
+}
+
+.navbar-item {
+    color: white;
+}
+
+/* Gaya tambahan untuk judul halaman */
+.title {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* Gaya tambahan untuk teks konten */
+p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+/* Gaya tambahan untuk tombol */
+.button.is-primary {
+    background-color: #007BFF;
+    border-color: #007BFF;
+    color: white;
+}
+
+.button.is-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Gaya tambahan untuk Footer */
+.footer {
+    background-color: #f5f5f5;
+    padding: 2rem 0;
+}
+
+.footer p {
+    color: #555;
+}
+
+/* Gaya tambahan untuk tautan Footer */
+.footer a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.section {
+    text-align: center; /* Mengatur teks di tengah secara horizontal */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Mengatur teks di tengah secara vertikal */
+}
+/* styles.css */
+
+/* Gaya untuk judul di halaman Proposal */
+.title {
+    font-size: 2.5rem;
+    color: #333; /* Warna teks */
+    margin-bottom: 1.5rem;
+}
+
+/* Gaya untuk footer */
+.footer {
+    background-color: #333; /* Warna latar belakang footer */
+    color: #fff; /* Warna teks di footer */
+    padding: 1rem 0;
+}
+
+/* Gaya untuk tautan navbar */
+.navbar-item {
+    color: #fff; /* Warna teks tautan navbar */
+    font-weight: bold;
+}
+
+.navbar-item:hover {
+    background-color: #fff; /* Warna latar belakang saat tautan navbar dihover */
+    color: #333; /* Warna teks saat tautan navbar dihover */
+}
+
+/* Gaya untuk container proposal */
+#proposal-container {
+    border: 1px solid #ddd; /* Garis batas proposal */
+    padding: 1rem;
+    background-color: #f8f8f8; /* Warna latar belakang proposal */
+}
+
+/* Gaya untuk gambar logo */
+.navbar-item img {
+    margin-right: 10px; /* Jarak antara gambar logo dan teks */
+}
